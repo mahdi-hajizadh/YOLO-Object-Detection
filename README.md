@@ -48,7 +48,6 @@ The unit tests cover image decoding, input rejection, and count aggregation. The
 - `detection.py` — image validation and result aggregation
 - `tests/` — dependency-light unit tests
 - `.streamlit/config.toml` — upload limit
-- `detect_app_original.py` — original implementation retained for reference
 - `TEST_REPORT.md` — verification details
 - `GITHUB_PUBLICATION.txt` — publication commands
 
