@@ -1,0 +1,19 @@
+Suggested repository: yolo-photo-inspector
+Description: Streamlit YOLO image object detection with confidence filtering and per-class counting.
+Topics: python, streamlit, yolo, ultralytics, object-detection, computer-vision
+
+IMPORTANT: Confirm you own the source and have resolved applicable licensing requirements before public publication. No LICENSE file is included because no licensing authority or choice was provided. Review Ultralytics and model-weight licenses independently.
+
+From the extracted repository directory:
+
+git init
+git branch -M main
+git add .
+git commit -m "Initial release: robust YOLO photo inspector"
+
+Create an empty repository named yolo-photo-inspector on GitHub first, then run (replace YOUR_USERNAME):
+
+git remote add origin https://github.com/YOUR_USERNAME/yolo-photo-inspector.git
+git push -u origin main
+
+These commands have NOT been executed against GitHub.
