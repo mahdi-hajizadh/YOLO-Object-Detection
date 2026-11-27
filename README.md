@@ -2,6 +2,8 @@
 
 A small Streamlit application for object detection and per-class counting in uploaded JPEG and PNG images using Ultralytics YOLO.
 
+Upload a photo to preview an annotated image and see how many objects were detected in each class.
+
 ## Features
 
 - JPEG/PNG upload with 15 MB and 25 megapixel validation limits
