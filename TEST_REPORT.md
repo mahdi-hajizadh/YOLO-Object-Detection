@@ -18,4 +18,3 @@
 
 - `yolo26n.pt` is referenced but not bundled; it may need downloading on first run.
 - No LICENSE was added because the copyright holder has not selected a license; do not assume public redistribution rights.
-- The original implementation is retained as `detect_app_original.py` for comparison, not as the recommended entry point.
