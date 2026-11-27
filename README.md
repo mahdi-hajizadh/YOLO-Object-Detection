@@ -51,7 +51,6 @@ The unit tests cover image decoding, input rejection, and count aggregation. The
 - `tests/` — dependency-light unit tests
 - `.streamlit/config.toml` — upload limit
 - `TEST_REPORT.md` — verification details
-- `GITHUB_PUBLICATION.txt` — publication commands
 
 ## Security and operational notes
 
